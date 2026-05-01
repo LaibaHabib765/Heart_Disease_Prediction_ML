@@ -28,6 +28,7 @@ Built a classification model to predict heart disease using Kaggle dataset of 10
 ### 📄 Full Project Report
 **[📥 Click Here to Download PDF Report](./Heart%20Disease%20Prediction%20Project%20Report.pdf)**
 
-### 👩‍💻 Author
-**Laiba Habib**  
-Data Science 
+### 👩‍💻 Team members
+**Laiba Habib** (Roll no: 15)
+**Dua Irfan** (Roll no: 07)
+
