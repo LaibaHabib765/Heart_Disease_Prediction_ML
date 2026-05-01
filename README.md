@@ -1,7 +1,7 @@
 # 🫀 Heart Disease Prediction using Machine Learning
 
 ### 📊 Project Overview
-Built a classification model to predict heart disease using Kaggle dataset of 1025 patients. Compared Logistic Regression, Random Forest & SVM. Achieved **85%+ accuracy** with Logistic Regression.
+Built a classification model to predict heart disease using Kaggle dataset of 1025 patients. Compared Logistic Regression, Random Forest & Decision Tree. Achieved **88.5%+ accuracy** with Random Forest Classifier.
 
 ### 📁 Dataset Details
 - **Source:** Kaggle Heart Disease Dataset
