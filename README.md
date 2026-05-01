@@ -10,14 +10,15 @@ Built a classification model to predict heart disease using Kaggle dataset of 10
 - **Target:** 1 = Heart Disease, 0 = No Disease
 
 ### 🛠️ Tech Stack
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
-
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn
 ### 🧠 Models & Accuracy
 | Model | Accuracy |
 | --- | --- |
-| Logistic Regression | **85.2%** |
-| Random Forest | 83.4% |
-| Support Vector Machine | 81.1% |
+| **Random Forest** | **88.5%** |
+| Logistic Regression | 85.2% |
+| Decision Tree | 80.5% |
+
+**Best Model: Random Forest** - Highest accuracy with better generalization and reduced overfitting.
 
 ### 📈 Project Workflow
 1. **Data Preprocessing:** Handled missing values, feature scaling
